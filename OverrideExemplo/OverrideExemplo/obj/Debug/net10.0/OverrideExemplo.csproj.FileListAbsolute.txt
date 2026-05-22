@@ -1,0 +1,14 @@
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\OverrideExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\OverrideExemplo.AssemblyInfoInputs.cache
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\OverrideExemplo.AssemblyInfo.cs
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\OverrideExemplo.csproj.CoreCompileInputs.cache
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\bin\Debug\net10.0\OverrideExemplo.exe
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\bin\Debug\net10.0\OverrideExemplo.deps.json
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\bin\Debug\net10.0\OverrideExemplo.runtimeconfig.json
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\bin\Debug\net10.0\OverrideExemplo.dll
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\bin\Debug\net10.0\OverrideExemplo.pdb
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\OverrideExemplo.dll
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\refint\OverrideExemplo.dll
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\OverrideExemplo.pdb
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\OverrideExemplo.genruntimeconfig.cache
+C:\Users\menez\source\repos\OverrideExemplo\OverrideExemplo\obj\Debug\net10.0\ref\OverrideExemplo.dll
